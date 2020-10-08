@@ -1,7 +1,7 @@
 package br.com.vagnerpgss.princeton;
 
 /**
- * First implementation of an algorithm for solving the dynamic connectivity problem, called Quick-find.
+ * First implementation of an algorithm for solving the dynamic connectivity problem, called Union-Find.
  * 
  * Cost:
  * Initialize: N
